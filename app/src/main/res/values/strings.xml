@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pitjarus Test</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="turn_on_location">Turn on your gps for enabled button</string>
+</resources>
